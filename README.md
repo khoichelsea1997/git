@@ -1,2 +1,0 @@
-# git
-aht training
